@@ -3,6 +3,8 @@ import copy
 import os.path
 import sys
 
+# Oystein Kapperud, 2017
+
 """
 This program uses the  Smith-Waterman algorithm to compute the optimal local alignment(s) of two sequences.
 To execute, simply run the script from the command line and follow the intructions.
