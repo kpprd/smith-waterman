@@ -17,3 +17,8 @@ each round (or, more precisely, the program initializes new Alignment instances 
 alignments.) When the program encounters an ‘s’ in the direction matrix, indicating that the beginning of the alignment is
 found, the alignment is finalized in a presentable format and stored in the found_alignments list, that is ultimately
 returned. The alignment(s) is/are then printed, and optionally saved to a file.
+
+
+Files:
+Sequence examples: NP.txt, QX.txt, human.txt, yeast.txt
+Matrix example: matrix.txt
