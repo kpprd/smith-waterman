@@ -1,5 +1,6 @@
 # smith-waterman
 Python version: Python 3.7
+
 Testrun: Macbook Pro OS 10.15.1. 
 
 
@@ -20,5 +21,7 @@ returned. The alignment(s) is/are then printed, and optionally saved to a file.
 
 
 Files:
+
 Sequence examples: NP.txt, QX.txt, human.txt, yeast.txt
+
 Matrix example: matrix.txt
